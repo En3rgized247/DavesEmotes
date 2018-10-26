@@ -6,9 +6,9 @@
  Bird 2: 		/ibird2 	: 2 hands middle finger
  Facepalm: 		/ipalm	: Facepalm
  BongRip:		/ibong	: Press E to take a fat rip!
- Cell Record:	/photo : Press E to take a picture! 
+ Cell Record:		/iphoto : Press E to take a picture! 
  Notepad:		/iticket : Press E to check your watch
- Crowd Control:	/cc		: Press E to control the crowd!
+ Crowd Control:		/icrowd		: Press E to control the crowd!
  Slow Clap:		/iclap		: Slow Clap
  Umbrella:		/iumb	: Pull out an umbrella on those rainy days!
  Bag:			/ibag	: Get your suitcase out.
